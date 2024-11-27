@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|c:\\users\\saif\\source\\repos\\secureapi_jwt\\secureapi_jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|solutionrelative:secureapi_jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|c:\\users\\saif\\source\\repos\\secureapi_jwt\\secureapi_jwt\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|solutionrelative:secureapi_jwt\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|c:\\users\\saif\\source\\repos\\secureapi_jwt\\secureapi_jwt\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|solutionrelative:secureapi_jwt\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|c:\\users\\saif\\source\\repos\\secureapi_jwt\\secureapi_jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|solutionrelative:secureapi_jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|c:\\users\\saif\\source\\repos\\secureapi_jwt\\secureapi_jwt\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|solutionrelative:secureapi_jwt\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Migrations\\20241125235921_initialcreatee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SecureAPI_JWT\\Migrations\\20241125235921_initialcreatee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|c:\\users\\saif\\source\\repos\\secureapi_jwt\\secureapi_jwt\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|solutionrelative:secureapi_jwt\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|c:\\users\\saif\\source\\repos\\secureapi_jwt\\secureapi_jwt\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|solutionrelative:secureapi_jwt\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|c:\\users\\saif\\source\\repos\\secureapi_jwt\\secureapi_jwt\\models\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|solutionrelative:secureapi_jwt\\models\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|c:\\users\\saif\\source\\repos\\secureapi_jwt\\secureapi_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|solutionrelative:secureapi_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|c:\\users\\saif\\source\\repos\\secureapi_jwt\\secureapi_jwt\\migrations\\20241125222504_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|solutionrelative:secureapi_jwt\\migrations\\20241125222504_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|c:\\users\\saif\\source\\repos\\secureapi_jwt\\secureapi_jwt\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|solutionrelative:secureapi_jwt\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|c:\\users\\saif\\source\\repos\\secureapi_jwt\\secureapi_jwt\\secureapi_jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|solutionrelative:secureapi_jwt\\secureapi_jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|c:\\users\\saif\\source\\repos\\secureapi_jwt\\secureapi_jwt\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187C3F2D-FF6F-4F5A-A156-B16C94758DFD}|SecureAPI_JWT\\SecureAPI_JWT.csproj|solutionrelative:secureapi_jwt\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241125235921_initialcreatee.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Migrations\\20241125235921_initialcreatee.cs",
+              "RelativeDocumentMoniker": "SecureAPI_JWT\\Migrations\\20241125235921_initialcreatee.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Migrations\\20241125235921_initialcreatee.cs",
+              "RelativeToolTip": "SecureAPI_JWT\\Migrations\\20241125235921_initialcreatee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:59:21.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Models\\TokenRequestModel.cs",
+              "RelativeDocumentMoniker": "SecureAPI_JWT\\Models\\TokenRequestModel.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Models\\TokenRequestModel.cs",
+              "RelativeToolTip": "SecureAPI_JWT\\Models\\TokenRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:43:47.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SecureAPI_JWT\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SecureAPI_JWT\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:15:08.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "SecureAPI_JWT\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "SecureAPI_JWT\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:52:16.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthModel.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Models\\AuthModel.cs",
+              "RelativeDocumentMoniker": "SecureAPI_JWT\\Models\\AuthModel.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Models\\AuthModel.cs",
+              "RelativeToolTip": "SecureAPI_JWT\\Models\\AuthModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:50:22.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SecureAPI_JWT\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Services\\AuthService.cs",
+              "RelativeToolTip": "SecureAPI_JWT\\Services\\AuthService.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAqwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:30:23.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "SecureAPI_JWT\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Services\\IAuthService.cs",
+              "RelativeToolTip": "SecureAPI_JWT\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:28:24.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241125222504_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Migrations\\20241125222504_initialcreate.cs",
+              "RelativeDocumentMoniker": "SecureAPI_JWT\\Migrations\\20241125222504_initialcreate.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Migrations\\20241125222504_initialcreate.cs",
+              "RelativeToolTip": "SecureAPI_JWT\\Migrations\\20241125222504_initialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:25:04.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SecureAPI_JWT\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SecureAPI_JWT\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:04:47.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SecureAPI_JWT\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "SecureAPI_JWT\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:02:04.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Program.cs",
+              "RelativeDocumentMoniker": "SecureAPI_JWT\\Program.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Program.cs",
+              "RelativeToolTip": "SecureAPI_JWT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:00:52.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JWT.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Helpers\\JWT.cs",
+              "RelativeDocumentMoniker": "SecureAPI_JWT\\Helpers\\JWT.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\Helpers\\JWT.cs",
+              "RelativeToolTip": "SecureAPI_JWT\\Helpers\\JWT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:57:09.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SecureAPI_JWT",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\SecureAPI_JWT.csproj",
+              "RelativeDocumentMoniker": "SecureAPI_JWT\\SecureAPI_JWT.csproj",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\SecureAPI_JWT.csproj",
+              "RelativeToolTip": "SecureAPI_JWT\\SecureAPI_JWT.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T21:56:26.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\appsettings.json",
+              "RelativeDocumentMoniker": "SecureAPI_JWT\\appsettings.json",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\SecureAPI_JWT\\SecureAPI_JWT\\appsettings.json",
+              "RelativeToolTip": "SecureAPI_JWT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T21:55:03.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
